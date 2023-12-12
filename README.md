@@ -29,7 +29,7 @@
 <div style="display: flex; gap: 2rem;">
     <div>
         <p style="text-align: justify;">
-            Để minh họa việc sử dụng nhóm chúng tôi đưa ra một ví dụ cụ thể như sau: Bạn A đang tìm một căn phòng rộng 15 mét vuông, 1 phòng ngủ, 1 phòng tắm, có máy giặt, điều hòa và bãi giữ xe, khoảng cách tới trung tâm thành phố khoảng 2km. Phần mềm sẽ đưa ra dự đoán giá phòng vào khoảng 3,146,157 Đồng một tháng.</p>
+            Để minh họa việc sử dụng nhóm chúng tôi đưa ra một ví dụ cụ thể như sau: Bạn A đang tìm một căn phòng rộng 15 mét vuông, 1 phòng ngủ, 1 phòng tắm, có máy giặt, điều hòa, có nhà bếp và bãi giữ xe, khoảng cách tới trung tâm thành phố khoảng 2km. Phần mềm sẽ đưa ra dự đoán giá phòng vào khoảng 3,146,157 Đồng một tháng.</p>
     </div>
         </div>
 <p style="text-align: center"><img src="https://scontent.fsgn2-8.fna.fbcdn.net/v/t1.15752-9/386858651_1017524529678203_1311701599767552252_n.png?_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=51xIQ27OSd4AX8wSc8h&_nc_ht=scontent.fsgn2-8.fna&oh=03_AdRhu9E-SNyJEw9j58DSZYdGQkb1agXK19sXg5Ouzlll7w&oe=65974875">
